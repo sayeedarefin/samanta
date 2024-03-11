@@ -91,10 +91,10 @@ nav li{
     margin-bottom: -5px;
 }
 header{
-    background-color: #f3fff6;
+    background-color: ;
     background-image: url(images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: top right;
 }
 main{
     max-width: 1140px;
@@ -105,9 +105,7 @@ main div{
 }
 .about{
     text-align: center;
-    /* justify-content: center;
-    align-items: center; */
-    margin: 140px auto;       
+    margin: 140px auto;
     padding: 100px;
     height: 250px;
     width: 1000px;
@@ -133,13 +131,10 @@ main div{
 }
 .do{
     text-align: center;
-    /* justify-content: center;
-    align-items: center; */
-    margin: 140px auto;       
+    margin: 140px auto;
     padding: 100px;
     height: 250px;
     width: 1000px;
-     ;
 }
 .do p{
     /* padding: 30px 150px; */
@@ -460,8 +455,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
     font-weight: 700;
     padding: 15px 30px;
+    
+    margin-top: 200px;
     text-align: center;
-    margin-top: 80px;
     
   
 }
